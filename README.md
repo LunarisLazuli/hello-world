@@ -1,3 +1,3 @@
 # hello-world
 My first repository on GitHub.
-# one very confused coder first steps into python.
+# one very confused coder's first steps into python.
